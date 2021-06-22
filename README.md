@@ -1,2 +1,2 @@
-# -Progetto_machine_learnign
+# Progetto_machine_learnign
 Progetto mask recognition
