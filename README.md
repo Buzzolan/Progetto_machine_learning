@@ -1,2 +1,4 @@
 # Progetto_machine_learnign
-Progetto mask recognition
+Project mask recognition 
+Extract feature with bag of words.
+Classification with SVM.
